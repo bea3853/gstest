@@ -5,15 +5,15 @@
       body{
           font-family: 'Montserrat', sans-serif;
           
-  background: black;
+  background: white;
       }
       h1{
         font-family: 'Montserrat', sans-serif;
-        color:#fff;
+        color:#000;
       }
 
       h2{
-        color:#fff;
+        color:#000;
       }
       
       p{
